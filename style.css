@@ -14,6 +14,7 @@ html {
 header {
     color: goldenrod;
     font-variant-caps: titling-caps;
+    padding: 5%;
     font-size: 4em;
     font-family: 'Tangerine', cursive;
     margin-left: 334px;
@@ -23,12 +24,10 @@ header {
 
 .title {
     margin-left: 155px;
-    margin-bottom: 100px;
 }
 
 .quote {
     margin-right: 249px;
-    margin-bottom: 400px;
 }
 
 main {
@@ -57,7 +56,7 @@ main {
     justify-content: center;
     align-items: center;
     margin-right: 35%;
-    border: 2px solid black;
+    border: 2px ridge black;
     height: 69px;
     font-size: 28px;
     color: rgb(7, 78, 136);
@@ -67,6 +66,7 @@ main {
 footer {
     display: flex;
     height: 100px;
+    border: 2px ridge black;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -81,6 +81,8 @@ input {
 }
 
 button {
+    color: red;
+    border: 2px ridge black;
     font-size: 28px;
     font-family: 'Tangerine', cursive;
 }

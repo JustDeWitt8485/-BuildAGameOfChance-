@@ -1,5 +1,17 @@
 # GitLab 
-- 
+- https://tdse2020.gitlab.io/build-a-game-of-chance-assessment 
+
+# Development Plan
+- I need to make a Magic 8 Ball
+ - Made a div for my 8 ball 
+  - Use CSS to create my 8 ball 50% border Radius
+   - made adjustments from there to correct minor issues
+- Create and list of Answers
+ - make and array initialize my array 
+  - find the answers I want to put into my array
+- produce random Answers from my list
+ - use my array to encompass Math.floor and Random
+  - also use switch statements to switch between adding my random words and refreshing the page.
 
 
 

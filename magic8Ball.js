@@ -6,9 +6,8 @@ const answerArr = ["Your eyes can deceive you; Don't trust them.", "Only the Blu
 console.log(answerArr);
 
 let ranAnswer = answerArr[Math.floor((Math.random() * answerArr.length))];
-
+console.log(ranAnswer)
 let submitA = true;
-let submit;
 buttonR.onclick = function () {
 
     if (submitA === true) {
