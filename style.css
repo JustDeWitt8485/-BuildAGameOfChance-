@@ -17,7 +17,7 @@ html {
 header {
     color: goldenrod;
     font-variant-caps: titling-caps;
-    font-size: 3em;
+    font-size: 2em;
     font-family: 'Tangerine', cursive;
     margin-left: 334px;
     justify-content: center;
@@ -25,7 +25,7 @@ header {
 }
 
 .title {
-    margin-left: 155px;
+    margin-left: 150px;
 }
 
 .quote {
@@ -33,7 +33,7 @@ header {
 }
 
 main {
-    margin-left: 28%;
+    margin-left: 25%;
     font-family: 'Righteous', cursive;
 }
 
