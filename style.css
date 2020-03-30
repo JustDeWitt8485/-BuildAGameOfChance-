@@ -41,13 +41,13 @@ main {
     background-color: rgba(1, 12, 17, 0.9);
     border: 1px solid black;
     border-radius: 50%;
-    height: 500px;
-    width: 500px;
+    height: 400px;
+    width: 400px;
 }
 
 #eight-ball p {
     font-size: 90px;
-    margin: 38% 44%;
+    margin: 36% 43%;
     color: whitesmoke;
 }
 
