@@ -38,7 +38,7 @@ main {
 #eight-ball {
     display: flex;
     margin-left: 100px;
-    background-color: black;
+    background-color: rgba(1, 12, 17, 0.9);
     border: 1px solid black;
     border-radius: 50%;
     height: 500px;
@@ -57,7 +57,7 @@ main {
     align-items: center;
     margin-right: 35%;
     border: 2px ridge black;
-    height: 69px;
+    height: 100px;
     font-size: 28px;
     color: rgb(7, 78, 136);
     background-color: whitesmoke;
